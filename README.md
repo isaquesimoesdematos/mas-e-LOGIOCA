@@ -1,2 +1,2 @@
-# mas-e-LOGIOCA
+# mas-e-LOGICA
 repositório dos trabalhos da disciplina
